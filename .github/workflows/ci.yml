@@ -34,3 +34,4 @@ jobs:
             ${{ runner.os }}-gradle-
       - run: ./gradlew assemble
       - run: ./gradlew check
+      # AKIA39BMK3FFNNMF42CV
