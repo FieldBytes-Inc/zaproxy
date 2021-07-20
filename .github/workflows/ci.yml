@@ -33,4 +33,4 @@ jobs:
             ${{ runner.os }}-gradle-${{ matrix.java }}-
             ${{ runner.os }}-gradle-
       - run: ./gradlew assemble
-      - run: ./gradlew check
+      - run: ./gradlew check # AKIAR5VZN2ZUMIOPMXMO
